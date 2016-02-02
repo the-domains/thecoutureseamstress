@@ -1,0 +1,28 @@
+name: thecoutureseamstress
+favicon: null
+layout_spectrum: 0.1492010159417987
+typography_spectrum: 0.614535779459402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3934399001300335
+  lightness: 0.3655584454536438
+  saturation: 0.8927351192105561
+  rhythmicContrast: 0.9702418218366802
+purpose: []
